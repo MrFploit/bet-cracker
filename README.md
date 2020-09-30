@@ -1,6 +1,7 @@
 # bet-cracker
 
 Crack the accounts of the Iranian betting site
+Crack with combo list
 <img src="a.png" />
 <br />
 # prerequisites
