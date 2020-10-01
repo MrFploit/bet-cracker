@@ -144,7 +144,7 @@ def choise():
 \033[92m           
       Code by it4min
       t.me/LinuxArmy
-      https://github.com/it4min/betcracker     
+      https://github.com/it4min/bet-cracker     
 \033[95m           
     [1] Tataloo          [6] sasha sobhani
     [2] Wolf Bet         [7] leito
